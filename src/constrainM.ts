@@ -11,3 +11,4 @@ const oneUser = {
 };
 
 const oneUserFunction = constFunction(oneUser, "name");
+console.log(oneUser);
